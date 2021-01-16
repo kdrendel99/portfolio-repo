@@ -1,0 +1,64 @@
+@font-face {
+  src: url(fonts/SpecialElite-Regular.ttf); font-family: Typewriter;
+}
+h1 {
+  font-family: Typewriter;
+}
+h2 {
+  font-family: Typewriter;
+}
+h3{
+  font-family: Typewriter;
+}
+p {
+  font-family: Typewriter;
+}
+ul {
+  font-family: Typewriter;
+}
+
+head {
+  background-image: url(img/alaska.jpg)
+}
+.max {
+  float: right;
+  margin: 10px;
+  border: 10px;
+  padding: 4px;
+  background-color:lightgray;
+}
+  .selfportrait {
+    float: left;
+    margin: 15px;
+    border: 20px;
+    padding: 4px;
+    background-color:lightgray;
+}
+.heading_3 {
+  margin: 6px;
+  border: 2px rgb(219, 221, 216);
+  width: 650px;
+  padding: 4px;
+  background-color: lightgray;
+}
+
+.title {
+  margin: 6px;
+  border: 2px rgb(219, 221, 216);
+  width: 550px;
+  padding: 4px;
+  background-color: lightgray;
+  text-align: center;
+}
+.title2 {
+  margin: 6px;
+  border: 2px rgb(219, 221, 216);
+  width: 550px;
+  padding: 4px;
+  background-color:lightgray;
+  text-align: center;
+}
+body{
+  background-image: "img/wrinkled.png"
+}
+☞
