@@ -16,6 +16,9 @@ p {
 ul {
   font-family: Typewriter;
 }
+.span {
+  color: aliceblue;
+}
 body {
   background-image: url(img/clouds.jpg);
   background-repeat: no-repeat;
@@ -68,4 +71,3 @@ header {
 body{
   background-image: "img/wrinkled.png"
 }
-☞
