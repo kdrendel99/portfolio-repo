@@ -16,9 +16,17 @@ p {
 ul {
   font-family: Typewriter;
 }
-
-head {
-  background-image: url(img/alaska.jpg)
+body {
+  background-image: url(img/clouds.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+header {
+  background-image: url(img/alaska.jpg);
+  background-size: cover;
+  height: 100vh;
+  border-color: white;
+  border: 10px;
 }
 .max {
   float: right;
@@ -39,7 +47,6 @@ head {
   border: 2px rgb(219, 221, 216);
   width: 650px;
   padding: 4px;
-  background-color: lightgray;
 }
 
 .title {
@@ -47,16 +54,16 @@ head {
   border: 2px rgb(219, 221, 216);
   width: 550px;
   padding: 4px;
-  background-color: lightgray;
-  text-align: center;
+  color: white;
+  position:relative; left:45px; top:375px;
 }
 .title2 {
   margin: 6px;
   border: 2px rgb(219, 221, 216);
   width: 550px;
   padding: 4px;
-  background-color:lightgray;
-  text-align: center;
+  color: white;
+  position:relative; left:100px; top:380px;
 }
 body{
   background-image: "img/wrinkled.png"
