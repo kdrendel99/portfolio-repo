@@ -16,15 +16,18 @@ _I've build this site as something to have as a 'revolving door' of sorts. I wan
 
 ## Setup/Installation Requirements
 
-_N/A_
+_open terminal_
+_create a desired directory to store repo clone using $ mkdir_
+_navigate to local directory in terminal and enter $ git clone https://github.com/kdrendel99/portfolio-repo.git_
+_use the '$ touch index.html' function to select, followed by '$ code .'_
 
 ## Known Bugs
 
 _No bugs!_
 
 ## License
-
-_N/A_
+_MIT License_
+_Copyright (c) 2021 Karlson Drendel_
 
 ## Contact Information
 

@@ -1,5 +1,5 @@
 @font-face {
-  src: url(fonts/SpecialElite-Regular.ttf); font-family: Typewriter;
+  src: url(../fonts/SpecialElite-Regular.ttf); font-family: Typewriter;
 }
 h1 {
   font-family: Typewriter;
@@ -21,15 +21,14 @@ ul {
 }
 ol {
   font-family: Typewriter;
-  text-align: Center;
 }
 body {
-  background-image: url(img/clouds.jpg);
+  background-image: url(../img/clouds.jpg);
   background-repeat: no-repeat;
   background-size:cover;
 }
 header {
-  background-image: url(img/alaska.jpg);
+  background-image: url(../img/alaska.jpg);
   background-size: cover;
   height: 100vh;
   border-color: white;
@@ -44,18 +43,16 @@ header {
 }
   .selfportrait {
     float: left;
-    margin: 15px;
-    border: 20px;
+    margin: 45px;
+    border: 40px;
     padding: 4px;
     background-color:lightgray;
-}
-.heading_3 {
-  margin: 6px;
-  border: 2px rgb(219, 221, 216);
-  width: 650px;
-  padding: 4px;
+    text-align: left;
 }
 
+.highlight {
+  background-color:#B3C0CA;
+}
 .title {
   margin: 6px;
   border: 2px rgb(219, 221, 216);
@@ -73,5 +70,14 @@ header {
   position:relative; left:100px; top:380px;
 }
 body{
-  background-image: "img/wrinkled.png"
+  background-image: "../img/wrinkled.png"
+}
+.box {
+  background-color: #DDE8F1;
+  border: lightgray;
+  padding: 2px;
+  margin: 2px;
+  float: right;
+  width: 575px;
+  height: 75px;
 }
